@@ -1,6 +1,6 @@
 # Linux Crypto Demo
 
-This project demonstrates how to use the Linux kernel's cryptographic API with the AF_ALG interface to compute a SHA-256 hash. Inspiration drawn from https://www.kernel.org/doc/html/v4.10/crypto/userspace-if.html. Purpose of this project was to get hands-on experience with low-level Linux cryptography and to practice debugging socket-based applications in C.
+This project demonstrates how to use the Linux kernel's cryptographic API with the AF_ALG interface to compute a SHA-256 hash. Inspiration drawn from https://www.kernel.org/doc/html/v4.10/crypto/userspace-if.html. Purpose of this project was to get hands-on experience with low-level Linux cryptography and to practice debugging socket-based applications in C. Google's Cloud Shell Editor was used. 
 
 ## Overview
 
